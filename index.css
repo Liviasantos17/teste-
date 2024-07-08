@@ -1,0 +1,20 @@
+h1{
+    font-family: Garamond;
+    font-size: 5vw;
+}
+
+i{
+    font-family: Helvetica;
+}
+
+code{
+    color: cyan;
+}
+
+p{
+    font-size: 3vw;
+}
+
+img{
+    filter: grayscale(100%);
+}
